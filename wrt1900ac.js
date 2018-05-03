@@ -43,8 +43,6 @@ module.exports = class Wrt1900ac {
             body: '[{"action":"http://linksys.com/jnap/' + action + '","request":{}}]'
         };
 
-        console.info('AAAAAAAAAa options', options)
-
         function responseCallback(err, response, body) {
             if (err) {
                 return cb(err, null);
