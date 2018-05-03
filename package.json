@@ -1,0 +1,24 @@
+{
+  "name": "wrt1900ac",
+  "version": "0.0.1",
+  "description": "Linksys 1900ac api",
+  "main": "./wrt1900ac.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstarzec386/wrt1900ac.git"
+  },
+  "keywords": [
+    "Linksys",
+    "1900ac",
+    "wrt1900ac"
+  ],
+  "author": "Mateusz Starzec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mstarzec386/wrt1900ac/issues"
+  },
+  "homepage": "https://github.com/mstarzec386/wrt1900ac",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
