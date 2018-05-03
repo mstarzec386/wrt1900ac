@@ -1,6 +1,6 @@
 {
   "name": "wrt1900ac",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Linksys 1900ac api",
   "main": "./wrt1900ac.js",
   "repository": {
